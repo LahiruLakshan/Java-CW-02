@@ -1,0 +1,3 @@
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: List of members ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+(1). Membership ID : 01		Member type is : DefaultMember		Name is : lahiru	Membership start date is : 12/12/2020
